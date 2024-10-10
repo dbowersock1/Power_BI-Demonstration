@@ -1,5 +1,5 @@
 # Power_BI-Demonstration
-This repository showcases a power BI report created to solve a business need within our Facilities team.
+This repository showcases a power BI report created to solve a business communication need within our Facilities team.
 
 ### Objectives & Features
 1) Provides a quick analysis between Facility Project Manager's projected spend profile and the spend profile currently being tracked by the corporate budget
