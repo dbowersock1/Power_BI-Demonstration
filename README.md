@@ -3,7 +3,7 @@ This repository showcases a power BI report created to solve a business need wit
 
 ### Objectives & Features
 1) Provides a quick analysis between Facility Project Manager's projected spend profile and the spend profile currently being tracked by the corporate budget
-2) Allows dissection of more timelines, Project Manager, and various captial types
+2) Allows dissection and refinement of timelines, Project Manager, and various captial types
 
 ![image](https://github.com/user-attachments/assets/24d83b13-f040-4094-92a4-74fb2726df2d)
 
