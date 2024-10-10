@@ -1,13 +1,11 @@
 # Power_BI-Demonstration
 This repository showcases a power BI report created to solve a business need within our Facilities team.
 
-### Objectives
+### Objectives & Features
 1) Provides a quick analysis between Facility Project Manager's projected spend profile and the spend profile currently being tracked by the corporate budget
 2) Allows dissection of more timelines, Project Manager, and various captial types
 
 ![image](https://github.com/user-attachments/assets/24d83b13-f040-4094-92a4-74fb2726df2d)
-
-### Features
 
 ## Data Sources
 ![image](https://github.com/user-attachments/assets/cb6f5ff9-05ca-48d1-81a6-af5be142fcaf)
